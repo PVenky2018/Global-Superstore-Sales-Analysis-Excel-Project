@@ -1,2 +1,2 @@
 # Global-Superstore-Sales-Analysis-Excel-Project
-A dynamic Excel sales dashboard project featuring PivotTables, slicers, and charts to analyze $127M+ in sales. Includes insights into AOV, regional performance, monthly trends, and top contributors. Ideal for executive decision-making and business analytics 
+A dynamic Excel sales dashboard project featuring PivotTables, slicers, and interactive charts to analyze over $127M in sales across regions and categories. It uncovers key business insights such as AOV, monthly trends, regional performance, and top contributors. Designed for executive-level decision-making and business analytics.
