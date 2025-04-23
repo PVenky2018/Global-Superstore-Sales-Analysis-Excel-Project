@@ -1,11 +1,11 @@
-#Project: Global Superstore Sales Analysis (Excel)
+# Project: Global Superstore Sales Analysis (Excel)
 
 This project aimed to analyse sales performance and regional management effectiveness for the Global Superstore using Excel-based analysis and dashboard creation. The dataset consisted of two worksheets:
 
 -	Orders: Contained transactional data including order details, customer information, product categorization, pricing, and geographical information.   
 -	Regional Head: Linked regional sales performance to specific sales representatives.
   
-##Key Analyses Performed:
+## Key Analyses Performed:
 -	Sales Revenue Analysis: Calculated the total sales revenue across all regions (Dashboard 1 shows the overall total). Identified the sales revenue by each region, enabling a comparison to find the highest and lowest performing regions (Dashboard 1 and Dashboard 2 both visualize regional sales, allowing for this comparison).   
 -	Regional Head Performance: Evaluated and ranked top-performing regional heads based on total sales revenue (Dashboard 1 and Dashboard 2 display and rank regional heads by sales).   
 -	Sales Trend Analysis: Analysed sales trends over time on a monthly basis (Dashboard 1 shows monthly sales trends).   
